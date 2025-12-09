@@ -39,5 +39,5 @@ Currently building skills through TryHackMe labs, Windows/Linux fundamentals, an
 
 ## 📫 Connect with me
 
-- LinkedIn: `https://www.linkedin.com/in/YOUR-LINKEDIN`  
-- TryHackMe: `https://tryhackme.com/p/YOUR_USERNAME`
+- LinkedIn: www.linkedin.com/in/vivek-narkar-cyber
+- TryHackMe: https://tryhackme.com/p/narkarvivek25
