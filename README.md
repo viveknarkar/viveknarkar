@@ -16,6 +16,11 @@ Currently building skills through TryHackMe labs, Windows/Linux fundamentals, an
 
 ## 🧪 Hands-on Practice
 
+<p align="center">
+  <a href="https://tryhackme.com/p/narkarvivek25">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/narkarvivek25.png" alt="TryHackMe Badge">
+  </a>
+</p>
 
 
 > I regularly practice labs and CTF-style challenges on TryHackMe to build practical skills in networking, Linux, Windows, blue teaming and incident response.
