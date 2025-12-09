@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Vivek 👋
 
-<!--
-**viveknarkar/viveknarkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Cybersecurity Analyst | Blue Team & DFIR Focus  
+Currently building skills through TryHackMe labs, Windows/Linux fundamentals, and upcoming Police Cyber Cell internship.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔐 What I'm working on
+
+- Completing TryHackMe Pre-Security & SOC Level 1 paths  
+- Learning Windows & Linux internals for incident response  
+- Preparing for **CompTIA Security+** and **ISC2 CC** (future)  
+- Building small investigation projects (log analysis, phishing cases, brute-force detection)
+
+---
+
+## 🧪 Hands-on Practice
+
+
+
+> I regularly practice labs and CTF-style challenges on TryHackMe to build practical skills in networking, Linux, Windows, blue teaming and incident response.
+
+---
+
+## 📂 Projects (to be added)
+
+- **Windows Log Attack Investigation** – Failed logins & brute-force analysis  
+- **Linux Auth Log Monitoring Script** – Simple brute-force detector in Bash/Python  
+- **Phishing Email Analysis** – Header + URL + attachment investigation report  
+
+*(These you will actually create and link as you build them.)*
+
+---
+
+## 📫 Connect with me
+
+- LinkedIn: `https://www.linkedin.com/in/YOUR-LINKEDIN`  
+- TryHackMe: `https://tryhackme.com/p/YOUR_USERNAME`
