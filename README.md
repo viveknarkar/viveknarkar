@@ -18,7 +18,7 @@ Currently building skills through TryHackMe labs, Windows/Linux fundamentals, an
 
 <p align="center">
   <a href="https://tryhackme.com/p/narkarvivek25">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/narkarvivek25.png" alt="TryHackMe Badge">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/narkarvivek25.png" alt="Your Image Badge" />
   </a>
 </p>
 
